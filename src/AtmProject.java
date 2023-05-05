@@ -19,5 +19,5 @@ public class AtmProject {
         //nsb3
         System.out.println();
     }
-
+//remote repoda degisiklik yaptim.
 }
